@@ -57,3 +57,29 @@ Edit tasks
 Delete tasks
 
 Built using HTML, CSS, and JavaScript.
+
+---
+# Experiment 5: Simple Blog (Flask)
+
+- Flask based web app to perform CRUD operations (Create, Read, Update, Delete).
+- Users can add, view, edit, and delete blog posts.
+- Built using Python, Flask, HTML, and CSS (no database used).
+- Simple and user-friendly interface with basic styling.
+
+---
+
+# Experiment 6: Contact Management System
+
+- Flask-based web app to manage contacts with CRUD operations.
+- Users can add, view, edit, delete, and search contacts.
+- Built using Python, Flask, HTML, and CSS (no database used).
+- Simple UI with table layout and search functionality.
+
+---
+
+# Experiment 6: E-Commerce Website
+
+- Basic e-commerce website with product listing and shopping cart.
+- Users can add/remove items and view total price dynamically.
+- Built using HTML, CSS, and JavaScript.
+- Includes checkout simulation with interactive UI.
