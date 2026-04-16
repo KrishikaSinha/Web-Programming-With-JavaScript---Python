@@ -77,7 +77,7 @@ Built using HTML, CSS, and JavaScript.
 
 ---
 
-# Experiment 6: E-Commerce Website
+# Experiment 7: E-Commerce Website
 
 - Basic e-commerce website with product listing and shopping cart.
 - Users can add/remove items and view total price dynamically.
